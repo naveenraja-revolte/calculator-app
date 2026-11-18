@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.env*
+!.env.example
+.DS_Store
+*.log
+core
+core.*
+*.heapsnapshot
+report.*.json
+isolate-*.log
+.revolte/runtime/
+.revolte/artifacts/
