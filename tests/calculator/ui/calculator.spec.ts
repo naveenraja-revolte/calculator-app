@@ -70,7 +70,7 @@ test.describe("Calculator UI", () => {
     });
   }
 
-  for (const [operator, label] of [
+  for (const [, label] of [
     ["+", "Add"],
     ["−", "Subtract"],
     ["×", "Multiply"],
